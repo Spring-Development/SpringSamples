@@ -1,8 +1,13 @@
-.gradle
-build/
-
-# Ignore Gradle GUI config
-gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
+*.git
+*.project
+*.classpath
+*.prefs
+*.bat
+.gradle/*
+build/*
+target/*
+*/target/*
+/bin
+.idea
+*.iml
+spath
